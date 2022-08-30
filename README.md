@@ -5,11 +5,11 @@ I am a Computer Engineering student at MEF University who is proficient in Pytho
 
 Areas that I had the opportunity to gain experience during my internship:
 
--Deep Learning
--Computer Vision (YOLOv4-v5-v6) and OpenCV library
--PostgreSQL Database
--Python Flask Server
--Parallel Programming and Thread Library
+- Deep Learning
+- Computer Vision (YOLOv4-v5-v6) and OpenCV library
+- PostgreSQL Database
+- Python Flask Server
+- Parallel Programming and Thread Library
 
 ## 🔗 Let's Connect!
 <a href="https://twitter.com/ridvantaskirann" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -22,8 +22,6 @@ Areas that I had the opportunity to gain experience during my internship:
 - Deep Learning: Computer Vision, OpenCV
 - Machine Learning
 - Data Science: Pandas, Numpy
-- Demo: Matplotlib, Seaborn, Bokeh
-- Misc Tools: TensorBoard, WandB, Comet, Gradio, Streamlit
 
 Database
 - PostgreSQL
