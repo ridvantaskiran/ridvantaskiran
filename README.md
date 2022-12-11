@@ -8,7 +8,7 @@ Areas that I had the opportunity to gain experience during my internship:
 - Deep Learning
 - Computer Vision (YOLOv4-v5-v6) and OpenCV library
 - PostgreSQL Database
-- Python Flask Server
+- Python Flask
 - Parallel Programming and Thread Library
 
 ## 🔗 Let's Connect!
