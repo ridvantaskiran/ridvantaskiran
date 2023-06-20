@@ -9,7 +9,6 @@ Areas that I had the opportunity to gain experience during my internship:
 - Computer Vision (YOLOv4-v5-v6) and OpenCV library
 - PostgreSQL Database
 - Python Django, Flask
-- Operating Systems
 
 ## 🔗 Let's Connect!
 <a href="https://twitter.com/ridvantaskirann" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -17,7 +16,8 @@ Areas that I had the opportunity to gain experience during my internship:
 
 ## 🔨 Stack
 
-
+Programming Languages: 
+Java - C - Bash - Assembly - ARM
 🐍 Python Stack
 - Deep Learning: Computer Vision, OpenCV
 - Machine Learning
