@@ -16,7 +16,7 @@ Areas that I had the opportunity to gain experience during my internship:
 
 ## 🔨 Stack
 
-Programming Languages: 
+Programming Languages:
 Java - C - Bash - Assembly - ARM
 
 🐍 Python Stack
