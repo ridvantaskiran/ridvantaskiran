@@ -18,6 +18,7 @@ Areas that I had the opportunity to gain experience during my internship:
 
 Programming Languages: 
 Java - C - Bash - Assembly - ARM
+
 🐍 Python Stack
 - Deep Learning: Computer Vision, OpenCV
 - Machine Learning
