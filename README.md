@@ -28,4 +28,4 @@ Database
 - PostgreSQL
 
 Development
-- Django, Flask
+- Django, HTML, CSS Flask
